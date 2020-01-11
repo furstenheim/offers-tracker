@@ -6,12 +6,16 @@
   "author": "Gabriel <furstenheim@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "chai": "^4.2.0",
     "fs-extra": "^8.1.0",
+    "jsdom": "^15.2.1",
+    "mocha": "^7.0.0",
     "node-fetch": "^2.6.0"
   },
   "scripts": {
     "main": "node index.js",
-    "main-fake": "node fake-index.js"
+    "main-fake": "node fake-index.js",
+    "test": "mocha"
   },
   "devDependencies": {
     "sinon": "^8.0.4"
