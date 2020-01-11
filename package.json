@@ -6,9 +6,14 @@
   "author": "Gabriel <furstenheim@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "fs-extra": "^8.1.0",
     "node-fetch": "^2.6.0"
   },
   "scripts": {
-    "main": "node index.js"
+    "main": "node index.js",
+    "main-fake": "node fake-index.js"
+  },
+  "devDependencies": {
+    "sinon": "^8.0.4"
   }
 }
