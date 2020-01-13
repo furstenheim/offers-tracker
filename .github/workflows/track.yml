@@ -1,7 +1,8 @@
 name: CI
 
-on: [push]
-
+on:
+  schedule:
+    - cron: 0 45 18 * * ?
 jobs:
   build:
 
@@ -15,7 +16,7 @@ jobs:
     - name: Create local changes
       run: |
         yarn install
-        yarn main-fake
+        yarn main
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
