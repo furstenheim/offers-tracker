@@ -10,7 +10,7 @@
     "fs-extra": "^8.1.0",
     "jsdom": "^15.2.1",
     "mocha": "^7.0.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   },
   "scripts": {
     "main": "node index.js",
