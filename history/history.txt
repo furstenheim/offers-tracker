@@ -9535,3 +9535,21 @@ ON THIS DAY… 23 years ago, on October 26, 1998, a computer was first run by us
 Manfred Daily is made with <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"><b>❤️</b></i> and sentidiño in Galicia, Spain. If you want to post an offer, here you have all the information: <a href="https://bit.ly/2NNEu0E" target="_blank" rel="noopener">https://bit.ly/2NNEu0E</a>.
 
 <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29382.png')"><b>Ⓜ️</b></i> = offers managed by Manfred<br>If you want to see our active processes, check our job board: <a href="https://bit.ly/35QNZFn" target="_blank" rel="noopener">https://bit.ly/35QNZFn</a> <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9180.png')"><b>👀</b></i>.
+
+Management Software Analyst @ Calzados Victoria<br>Arnedo (La Rioja) - €24-32K<br><a href="https://bit.ly/3mfWjYt" target="_blank" rel="noopener">https://bit.ly/3mfWjYt</a>
+
+<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29382.png')"><b>Ⓜ️</b></i>UX/UI Designer @ OpositaTest<br>Full-Remote - €25-40K<br><a href="https://bit.ly/3yXYnHz" target="_blank" rel="noopener">https://bit.ly/3yXYnHz</a>
+
+Java Software Architect @ Mirai<br>Full-Remote - €40-50K<br><a href="https://bit.ly/3mhvenE" target="_blank" rel="noopener">https://bit.ly/3mhvenE</a>
+
+Software Engineer @ Sticker Mule<br>Full-Remote - €99-135K + €10K Signing Bonus<br><a href="https://bit.ly/3bssttH" target="_blank" rel="noopener">https://bit.ly/3bssttH</a>
+
+Senior SRE @ Adevinta<br>Barcelona - €58-65K<br><a href="https://bit.ly/3CjogUH" target="_blank" rel="noopener">https://bit.ly/3CjogUH</a>
+
+Solution Architect @ Giant Swarm<br>Full-Remote - €60-90K<br><a href="https://bit.ly/3ny0QEW" target="_blank" rel="noopener">https://bit.ly/3ny0QEW</a>
+
+ON THIS DAY… 41 years ago, on October 27, 1980, the first major network Crash, the Four-Hour Collapse of the ARPANET, occurred. The ARPANET, predecessor of the modern Internet, was set up by the Department of Defense Advanced Research Projects Agency (DARPA). Initially it had linked four sites in California and Utah, and later was expanded to cover research centers across the country. The network failure resulted from a redundant single-error detecting code that was used for transmission but not storage, and a garbage-collection algorithm for removing old messages that was not resistant to the simultaneous existence of one message with several different time stamps. The combination of the events took the network down for four hours.
+
+Manfred Daily is made with <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"><b>❤️</b></i> and sentidiño in Galicia, Spain. If you want to post an offer, here you have all the information: <a href="https://bit.ly/2NNEu0E" target="_blank" rel="noopener">https://bit.ly/2NNEu0E</a>.
+
+<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29382.png')"><b>Ⓜ️</b></i> = offers managed by Manfred<br>If you want to see our active processes, check our job board: <a href="https://bit.ly/35QNZFn" target="_blank" rel="noopener">https://bit.ly/35QNZFn</a> <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9180.png')"><b>👀</b></i>.
