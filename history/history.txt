@@ -9883,3 +9883,21 @@ ON THIS DAY… 15 years ago, on November 13, 2006, Google completed the acquisit
 Manfred Daily is made with <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"><b>❤️</b></i> and sentidiño in Galicia, Spain. If you want to post an offer, here you have all the information: <a href="https://bit.ly/2NNEu0E" target="_blank" rel="noopener">https://bit.ly/2NNEu0E</a>.
 
 <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29382.png')"><b>Ⓜ️</b></i> = offers managed by Manfred<br>If you want to see our active processes, check our job board: <a href="https://bit.ly/35QNZFn" target="_blank" rel="noopener">https://bit.ly/35QNZFn</a> <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9180.png')"><b>👀</b></i>.
+
+<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29382.png')"><b>Ⓜ️</b></i> Backend Developer @ Bimba y Lola<br>Full-Remote / Vigo - €45-50K<br><a href="https://bit.ly/2ZlaXVO" target="_blank" rel="noopener">https://bit.ly/2ZlaXVO</a>
+
+DevOps Engineer @ FCM Travel<br>Full-Remote / Barcelona - €40-50K<br><a href="https://bit.ly/2YCxm0a" target="_blank" rel="noopener">https://bit.ly/2YCxm0a</a>
+
+<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29382.png')"><b>Ⓜ️</b></i> Senior PHP Developer @ Storybeat<br>Full-Remote - €45-55K<br><a href="https://bit.ly/3n4jCEY" target="_blank" rel="noopener">https://bit.ly/3n4jCEY</a>
+
+Senior Frontend Engineer @ Rally<br>Full-Remote - $80-100K + Equity<br><a href="https://bit.ly/30gDV94" target="_blank" rel="noopener">https://bit.ly/30gDV94</a>
+
+<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29382.png')"><b>Ⓜ️</b></i> Alliance Marketing Manager @ Tutellus<br>Full-Remote - Up to €50K + €10K variable<br><a href="https://bit.ly/3kx4r5r" target="_blank" rel="noopener">https://bit.ly/3kx4r5r</a>
+
+Software Engineer (Golang) @ Paddle<br>Full-Remote - £60-70K<br><a href="https://bit.ly/3D9AY9b" target="_blank" rel="noopener">https://bit.ly/3D9AY9b</a>
+
+ON THIS DAY… 24 years ago, on November 14, 1997, one week after reports surfaced identifying a flaw in certain Pentium processors, Intel releases a software workaround for operating systems to avoid the commonly named “F0 bug“. A very specific invalid operation passed to the affected processors would cause the processor to lock up, causing the computer and any software running on it to freeze. Identified by Intel as the “Invalid Operand with Locked Compare Exchange 8Byte (CMPXCHG8B) Instruction Erratum” (seriously?), the flaw, while potentially a serious problem, was practically little more than a PR headache as the invalid operation that triggered the processor to lock up was never encountered in real-world operations. Additionally, the F0 bug only affected the older Pentium processors, not the Pentium II and Pentium Pro processors Intel was currently shipping at the time. However, the workaround was necessary as malicious software could have exploited the flaw and caused serious problems for PCs and servers using the affected processors.
+
+Manfred Daily is made with <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"><b>❤️</b></i> and sentidiño in Galicia, Spain. If you want to post an offer, here you have all the information: <a href="https://bit.ly/2NNEu0E" target="_blank" rel="noopener">https://bit.ly/2NNEu0E</a>.
+
+<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29382.png')"><b>Ⓜ️</b></i> = offers managed by Manfred<br>If you want to see our active processes, check our job board: <a href="https://bit.ly/35QNZFn" target="_blank" rel="noopener">https://bit.ly/35QNZFn</a> <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9180.png')"><b>👀</b></i>.
