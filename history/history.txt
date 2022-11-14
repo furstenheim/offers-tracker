@@ -16635,3 +16635,23 @@ ON THIS DAY… 16 years ago, on November 13, 2006, Google completed the acquisit
 Manfred Daily is made with <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"><b>❤️</b></i> and sentidiño in Galicia, Spain. If you want to post an offer, here you have all the information: <a href="https://bit.ly/2NNEu0E" target="_blank" rel="noopener">https://bit.ly/2NNEu0E</a>.
 
 <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29382.png')"><b>Ⓜ️</b></i> = offers managed by Manfred<br>If you want to see our active processes, check our job board: <a href="https://bit.ly/35QNZFn" target="_blank" rel="noopener">https://bit.ly/35QNZFn</a> <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9180.png')"><b>👀</b></i>.
+
+Hello everyone! Who’s ready for 6 goooood job offers to go for this Monday? <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2989D.png')"><b>☝️</b></i>
+
+<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8CB6.png')"><b>🌶️</b></i> Full-Stack Developer @ Litentry<br>Full-Remote - €60-80K<br><a href="https://mnfrd.co/3G6YurH" target="_blank" rel="noopener">https://mnfrd.co/3G6YurH</a>
+
+<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29382.png')"><b>Ⓜ️</b></i> Junior Android Developer @ Nutritienda<br>Full-Remote / Madrid - €30-35K<br><a href="https://mnfrd.co/3G5nOhI" target="_blank" rel="noopener">https://mnfrd.co/3G5nOhI</a>
+
+Senior Data Analyst @ Talarian<br>Full-Remote - €50-75K<br><a href="https://mnfrd.co/3G99zIy" target="_blank" rel="noopener">https://mnfrd.co/3G99zIy</a>
+
+<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29382.png')"><b>Ⓜ️</b></i> iOS Developer @ Meep<br>Full-Remote / Madrid - Up to €43K<br><a href="https://mnfrd.co/3G83Z9x" target="_blank" rel="noopener">https://mnfrd.co/3G83Z9x</a>
+
+Developer Advocate @ Confio<br>Full-Remote - €60-85K<br><a href="https://mnfrd.co/3UwxHJH" target="_blank" rel="noopener">https://mnfrd.co/3UwxHJH</a>
+
+<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29382.png')"><b>Ⓜ️</b></i> Junior DevOps @ éutika<br>Full-Remote / A Coruña - €25-30K<br><a href="https://mnfrd.co/3UwxIgJ" target="_blank" rel="noopener">https://mnfrd.co/3UwxIgJ</a>
+
+ON THIS DAY… 25 years ago, on November 14, 1997, one week after reports surfaced identifying a flaw in certain Pentium processors, Intel releases a software workaround for operating systems to avoid the commonly named “F0 bug“. A very specific invalid operation passed to the affected processors would cause the processor to lock up, causing the computer and any software running on it to freeze. Identified by Intel as the “Invalid Operand with Locked Compare Exchange 8Byte (CMPXCHG8B) Instruction Erratum” (seriously?), the flaw, while potentially a serious problem, was practically little more than a PR headache as the invalid operation that triggered the processor to lock up was never encountered in real-world operations. Additionally, the F0 bug only affected the older Pentium processors, not the Pentium II and Pentium Pro processors Intel was currently shipping at the time. However, the workaround was necessary as malicious software could have exploited the flaw and caused serious problems for PCs and servers using the affected processors.
+
+Manfred Daily is made with <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"><b>❤️</b></i> and sentidiño in Galicia, Spain. If you want to post an offer, here you have all the information: <a href="https://bit.ly/2NNEu0E" target="_blank" rel="noopener">https://bit.ly/2NNEu0E</a>.
+
+<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29382.png')"><b>Ⓜ️</b></i> = offers managed by Manfred<br>If you want to see our active processes, check our job board: <a href="https://bit.ly/35QNZFn" target="_blank" rel="noopener">https://bit.ly/35QNZFn</a> <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9180.png')"><b>👀</b></i>.
