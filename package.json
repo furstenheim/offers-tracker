@@ -8,7 +8,7 @@
   "dependencies": {
     "chai": "^4.2.0",
     "fs-extra": "^8.1.0",
-    "jsdom": "^15.2.1",
+    "jsdom": "^16.5.0",
     "mocha": "^7.0.0",
     "node-fetch": "^2.6.0"
   },
