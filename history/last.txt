@@ -1,1 +1,1 @@
-<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9283F09F8FBB.png')"><b>💃🏻</b></i>Yes, yes: it’s Friday and your body knows it <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988E.png')"><b>😎</b></i>
+<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92A5.png')"><b>💥</b></i> Our friends at UNITH are looking for a Senior Backend Engineer to build and scale backend systems for LLM-powered conversational AI.
