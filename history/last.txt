@@ -1,1 +1,1 @@
-Happy Hump Day <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F90AA.png')"><b>🐪</b></i>  
+<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9180.png')"><b>👀</b></i> Hey, Data Engineers! Our very good friends at Auctane are looking for someone to help them make sense of A LOT of data. <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938A.png')"><b>📊</b></i>  
